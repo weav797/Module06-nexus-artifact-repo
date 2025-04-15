@@ -1,6 +1,6 @@
 # Nexus Artifact Publisher
 
-This project demonstrates setting up a private Nexus repository from scratch and publishing Java artifacts using both Gradle and Maven.<br /><br />
+This project demonstrates setting up a private Nexus repository and publishing Java artifacts using both Gradle and Maven.<br /><br />
 Source: **Techworld with Nana bootcamp**
 
 ## 🔧 Technologies Used
