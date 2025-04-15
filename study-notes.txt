@@ -1,0 +1,14 @@
+Different types of Nexus repositories:
+
+
+
+Proxy repository - Links to a remote repository. Maven, for example, has the Maven central repository. 
+This is useful for grabbing jar files and/or other dependencies for Java applications.
+
+Custom repository (create your own) - Not much needs to be said here. If you have an internal repo for your company
+inside AWS, for example, then you could point to that URL for the Nexus config.
+
+Hosted repository - Similar definition up above
+
+Group repository - Useful if you have multiple individual repos you need to connect to. 
+One group repo endpoint can be used in place of multiple individual ones. 
