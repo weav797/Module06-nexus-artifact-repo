@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>nexus-snapshots</id>
+      <username>paul</username>
+      <password>changeme</password>
+    </server>
+  </servers>
+</settings>
