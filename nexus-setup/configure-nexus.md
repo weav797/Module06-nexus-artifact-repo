@@ -26,9 +26,9 @@ This gave me more flexibility in managing storage and cleanup tasks independentl
 
 ---
 
-## 🧾 Customized Privileges (Optional Exploration)
+## 🧾 Customized Privileges
 
-Though not required in the training, I experimented with creating a custom privilege to control access to the `maven-snapshots` repository and applied it to the deployment user via a new role. This helped reinforce how granular security can be managed inside Nexus.
+I created a custom privilege to control access to the `maven-snapshots` repository and applied it to the deployment user via a new role. This helped reinforce how granular security can be managed inside Nexus.
 
 ---
 
